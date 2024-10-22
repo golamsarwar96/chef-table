@@ -1,0 +1,92 @@
+[
+    {
+        "recipe_img": "https://i.ibb.co.com/chq1n6X/pexels-pixabay-60616.png",
+        "recipe_id": "1",
+        "recipe_name": "Chicken Fry",
+        "description": "Quick and tasty chicken stir fry recipe.",
+        "ingredients": [
+            "550g chicken",
+            "120ml soy sauce",
+            "200g mixed vegetables",
+            "2 cloves garlic",
+            "1 tablespoon olive oil"
+        ],
+        "prepare_time": "30 minutes",
+        "calories": 450
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/02TFncG/pexels-xmtnguyen-2664216.png",
+        "recipe_id": "2",
+        "recipe_name": "Spaghetti Bolognese",
+        "description": "Classic spaghetti with rich meat sauce.",
+        "ingredients": [
+            "400g spaghetti",
+            "500g ground beef",
+            "1 onion",
+            "400g canned tomatoes",
+            "2 cloves garlic"
+        ],
+        "prepare_time": "45 minutes",
+        "calories": 600
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/23HSY5f/pexels-roman-odintsov-4958641.png",
+        "recipe_id": "3",
+        "recipe_name": "Chicken Tacos",
+        "description": "Delicious and healthy vegan taco option.",
+        "ingredients": [
+            "8 corn tortillas",
+            "200g black beans",
+            "1 avocado",
+            "100g chicken",
+            "1 lime"
+        ],
+        "prepare_time": "20 minutes",
+        "calories": 300
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/1rC81Yy/pexels-ash-craig-122861-376464.png",
+        "recipe_id": "4",
+        "recipe_name": "Fluffy Pancakes",
+        "description": "Light and fluffy pancakes for breakfast.",
+        "ingredients": [
+            "200g flour",
+            "2 eggs",
+            "300ml milk",
+            "50g sugar",
+            "1 teaspoon baking powder"
+        ],
+        "prepare_time": "25 minutes",
+        "calories": 350
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/HgQhHmp/pexels-pedrofurtadoo-28992235-1.png",
+        "recipe_id": "5",
+        "recipe_name": "Caesar Salad",
+        "description": "Classic Caesar salad with homemade dressing.",
+        "ingredients": [
+            "200g romaine lettuce",
+            "50g parmesan cheese",
+            "100g croutons",
+            "2 anchovy fillets",
+            "30ml olive oil"
+        ],
+        "prepare_time": "15 minutes",
+        "calories": 250
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/kMQ6g64/cake-8233676-640.jpg",
+        "recipe_id": "6",
+        "recipe_name": "Chocolate Cake",
+        "description": "Rich and moist chocolate cake for dessert.",
+        "ingredients": [
+            "200g flour",
+            "250g sugar",
+            "100g cocoa powder",
+            "3 eggs",
+            "200ml milk"
+        ],
+        "prepare_time": "60 minutes",
+        "calories": 550
+    }
+]
