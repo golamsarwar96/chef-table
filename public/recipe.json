@@ -11,7 +11,7 @@
             "2 cloves garlic",
             "1 tablespoon olive oil"
         ],
-        "prepare_time": "30 minutes",
+        "prepare_time": 30,
         "calories": 450
     },
     {
@@ -26,7 +26,7 @@
             "400g canned tomatoes",
             "2 cloves garlic"
         ],
-        "prepare_time": "45 minutes",
+        "prepare_time": 45,
         "calories": 600
     },
     {
@@ -41,7 +41,7 @@
             "100g chicken",
             "1 lime"
         ],
-        "prepare_time": "20 minutes",
+        "prepare_time": 20,
         "calories": 300
     },
     {
@@ -56,7 +56,7 @@
             "50g sugar",
             "1 teaspoon baking powder"
         ],
-        "prepare_time": "25 minutes",
+        "prepare_time": 25,
         "calories": 350
     },
     {
@@ -71,7 +71,7 @@
             "2 anchovy fillets",
             "30ml olive oil"
         ],
-        "prepare_time": "15 minutes",
+        "prepare_time": 15,
         "calories": 250
     },
     {
@@ -86,7 +86,7 @@
             "3 eggs",
             "200ml milk"
         ],
-        "prepare_time": "60 minutes",
+        "prepare_time": 60,
         "calories": 550
     }
 ]
